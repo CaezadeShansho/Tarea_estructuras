@@ -77,3 +77,4 @@ Avele.insert(30)
 Avele.insert(60)
 Avele.insert(100)
 Avele.inorder(Avele.root) 
+#se subio
